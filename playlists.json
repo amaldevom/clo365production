@@ -1441,8 +1441,8 @@
   },
   {
     "Id": "a958fdc7-d697-43f1-b3b3-a3f467ff94cd",
-    "Title": "Word 2016 Quick Start ",
-    "Image": "images/playlists/word_quick_start.png",
+    "Title": "Word 2016 Quick Start",
+    "Image": "word_quick_start.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Word",
