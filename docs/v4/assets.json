@@ -1,0 +1,34 @@
+[
+  {
+    "Id": "6d11e33a-c291-45f9-b6a3-9979fd8ff4fd",
+    "Title": "asset1",
+    "Description": "",
+    "Url": "ht",
+    "Level": "Beginner",
+    "Audience": "Admin",
+    "Technology": "Excel",
+    "Subject": "",
+    "Category": "Get Started",
+    "SubCategory": "First Days",
+    "CatId": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
+    "MediaId": "",
+    "Source": "SOC",
+    "StatusTag": "New"
+  },
+  {
+    "Id": "ca06c4ee-0dab-4059-bf9d-a11eae0f3803",
+    "Title": "assest",
+    "Description": "",
+    "Url": "http",
+    "Level": "Beginner",
+    "Audience": "Admin",
+    "Technology": "Excel",
+    "Subject": "",
+    "Category": "Get Started",
+    "SubCategory": "First Days",
+    "CatId": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
+    "MediaId": "",
+    "Source": "SOC",
+    "StatusTag": "New"
+  }
+]
