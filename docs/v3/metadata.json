@@ -341,6 +341,16 @@
           ]
         }
       ]
+    },
+    {
+      "Id": "3d5bf4b5-4751-4740-864f-cc7347489af5",
+      "Name": "Categories",
+      "Security": "",
+      "Image": "images/categories/add_and_format_pictures.png",
+      "Type": "Category",
+      "Technology": "",
+      "Source": "",
+      "SubCategories": []
     }
   ],
   "Audiences": [
