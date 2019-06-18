@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "433d6661-27a0-4995-ad40-70f5c7786c7e",
+    "Title": "Playlist1",
+    "Image": "",
+    "Level": "Beginner",
+    "Audience": "Admin",
+    "Technology": "Excel",
+    "Subject": "",
+    "Category": "Scenarios",
+    "SubCategory": "Modern Workplace",
+    "Source": "SOC",
+    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "Description": "",
+    "StatusTag": "New",
+    "Assets": []
+  }
+]
