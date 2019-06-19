@@ -104,6 +104,7 @@
       "Image": "",
       "Type": "Category",
       "Technology": "",
+      "Source": null,
       "SubCategories": [
         {
           "Id": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
@@ -112,6 +113,7 @@
           "Image": "",
           "Type": "SubCategory",
           "Technology": "M365",
+          "Source": null,
           "SubCategories": []
         },
         {
@@ -121,6 +123,7 @@
           "Image": "",
           "Type": "SubCategory",
           "Technology": "",
+          "Source": null,
           "SubCategories": []
         },
         {
@@ -130,6 +133,7 @@
           "Image": "",
           "Type": "SubCategory",
           "Technology": "OneDrive for Business",
+          "Source": null,
           "SubCategories": []
         },
         {
@@ -139,6 +143,7 @@
           "Image": "images/categories/transformation.png",
           "Type": "SubCategory",
           "Technology": "",
+          "Source": null,
           "SubCategories": []
         },
         {
@@ -148,6 +153,7 @@
           "Image": "images/categories/first_days.png",
           "Type": "SubCategory",
           "Technology": "",
+          "Source": null,
           "SubCategories": []
         },
         {
@@ -157,6 +163,7 @@
           "Image": "images/categories/featured.png",
           "Type": "SubCategory",
           "Technology": "",
+          "Source": null,
           "SubCategories": []
         }
       ]
@@ -168,6 +175,7 @@
       "Image": "",
       "Type": "Category",
       "Technology": "",
+      "Source": null,
       "SubCategories": [
         {
           "Id": "85c785c2-c873-4483-9728-64a367fee3f1",
@@ -176,6 +184,7 @@
           "Image": "images/categories/excel_training.png",
           "Type": "SubCategory",
           "Technology": "Excel",
+          "Source": null,
           "SubCategories": []
         },
         {
@@ -185,6 +194,7 @@
           "Image": "images/categories/microsoft_teams_training.png",
           "Type": "SubCategory",
           "Technology": "Microsoft Teams",
+          "Source": null,
           "SubCategories": []
         },
         {
@@ -194,6 +204,7 @@
           "Image": "images/categories/office_365_apps_basic_training.png",
           "Type": "SubCategory",
           "Technology": "Office 365",
+          "Source": null,
           "SubCategories": []
         },
         {
@@ -203,6 +214,7 @@
           "Image": "images/categories/onedrive_training.png",
           "Type": "SubCategory",
           "Technology": "OneDrive",
+          "Source": null,
           "SubCategories": []
         },
         {
@@ -212,6 +224,7 @@
           "Image": "images/categories/onenote_training.png",
           "Type": "SubCategory",
           "Technology": "OneNote",
+          "Source": null,
           "SubCategories": []
         },
         {
@@ -221,6 +234,7 @@
           "Image": "images/categories/outlook_training.png",
           "Type": "SubCategory",
           "Technology": "Outlook",
+          "Source": null,
           "SubCategories": []
         },
         {
@@ -230,6 +244,7 @@
           "Image": "images/categories/powerpoint_training.png",
           "Type": "SubCategory",
           "Technology": "PowerPoint",
+          "Source": null,
           "SubCategories": []
         },
         {
@@ -239,6 +254,7 @@
           "Image": "images/categories/word_training.png",
           "Type": "SubCategory",
           "Technology": "Word",
+          "Source": null,
           "SubCategories": []
         },
         {
@@ -248,6 +264,7 @@
           "Image": "images/categories/yammer_training.png",
           "Type": "SubCategory",
           "Technology": "Yammer",
+          "Source": null,
           "SubCategories": []
         },
         {
@@ -257,6 +274,7 @@
           "Image": "",
           "Type": "SubCategory",
           "Technology": "Windows 10",
+          "Source": null,
           "SubCategories": []
         },
         {
@@ -266,6 +284,7 @@
           "Image": "images/categories/sharepoint_training.png",
           "Type": "SubCategory",
           "Technology": "SharePoint",
+          "Source": null,
           "SubCategories": [
             {
               "Id": "3a2e4c03-a5c6-4e4f-a2e4-71e74dfd6ff9",
@@ -274,6 +293,7 @@
               "Image": "",
               "Type": "Subject",
               "Technology": "",
+              "Source": null,
               "SubCategories": []
             },
             {
@@ -283,6 +303,7 @@
               "Image": "",
               "Type": "Subject",
               "Technology": "",
+              "Source": null,
               "SubCategories": []
             },
             {
@@ -292,6 +313,7 @@
               "Image": "",
               "Type": "Subject",
               "Technology": "",
+              "Source": null,
               "SubCategories": []
             }
           ]
@@ -305,6 +327,7 @@
       "Image": "",
       "Type": "Category",
       "Technology": "",
+      "Source": null,
       "SubCategories": [
         {
           "Id": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
@@ -313,6 +336,7 @@
           "Image": "images/categories/first_days.png",
           "Type": "SubCategory",
           "Technology": "",
+          "Source": null,
           "SubCategories": []
         },
         {
@@ -322,6 +346,7 @@
           "Image": "images/categories/featured.png",
           "Type": "SubCategory",
           "Technology": "",
+          "Source": null,
           "SubCategories": []
         },
         {
@@ -331,6 +356,7 @@
           "Image": "images/categories/recommended.png",
           "Type": "SubCategory",
           "Technology": "",
+          "Source": null,
           "SubCategories": []
         }
       ]
