@@ -125,6 +125,16 @@
           "Technology": "",
           "Source": "Microsoft",
           "SubCategories": []
+        },
+        {
+          "Id": "b60e7fed-2214-42e9-be08-56782a2eef05",
+          "Name": "sd",
+          "Security": "Visitors",
+          "Image": "images/categories/add_and_format_pictures.png",
+          "Type": "SubCategory",
+          "Technology": "",
+          "Source": "Microsoft",
+          "SubCategories": []
         }
       ]
     },

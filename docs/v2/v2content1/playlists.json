@@ -2,7 +2,7 @@
   {
     "Id": "88079f9a-210c-4170-90e9-fc70c58f55b8",
     "Title": "asd",
-    "Image": "",
+    "Image": "images/playlists/add_and_edit_text.png",
     "Level": "Beginner",
     "Audience": "Admin",
     "Technology": "Excel",
@@ -13,6 +13,8 @@
     "CatId": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
     "Description": "",
     "StatusTag": "New",
-    "Assets": []
+    "Assets": [
+      "a0d2c074-dfa3-4c67-97a7-a5141281ca10"
+    ]
   }
 ]
